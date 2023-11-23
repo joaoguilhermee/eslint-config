@@ -1,4 +1,4 @@
-# Rocketseat ESLint config
+# JoaoGuilher.me ESLint config
 
 ## Whats included?
 
@@ -14,13 +14,13 @@
 
 Install dependencies:
 ```
-npm i -D eslint @rocketseat/eslint-config
+npm i -D eslint @joaoguilher.me/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
   "extends": [
-    "@rocketseat/eslint-config/next", 
+    "@joaoguilher.me/eslint-config/next", 
     "next/core-web-vitals"
   ]
 }
@@ -30,12 +30,12 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @rocketseat/eslint-config
+npm i -D eslint @joaoguilher.me/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@rocketseat/eslint-config/react"
+  "extends": "@joaoguilher.me/eslint-config/react"
 }
 ```
 
@@ -43,11 +43,11 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @rocketseat/eslint-config
+npm i -D eslint @joaoguilher.me/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@rocketseat/eslint-config/node"
+  "extends": "@joaoguilher.me/eslint-config/node"
 }
 ```
